@@ -1,1 +1,36 @@
-# PortSwigger-Labs-Solutions
+# PortSwigger Labs Solutions
+
+Solutions and write-ups for [PortSwigger Web Security Academy](https://portswigger.net/web-security/) labs.
+
+## Vulnerabilities
+
+* [SQL Injection](SQL%20Injection/)
+* [Cross-Site Scripting (XSS)](Cross-site%20scripting/)
+* [Cross-Site Request Forgery (CSRF)](Cross-site%20request%20forgery/)
+* [Clickjacking](Clickjacking/)
+* [DOM-Based Vulnerabilities](DOM-based%20vulnerabilities/)
+* [Cross-Origin Resource Sharing (CORS)](Cross-origin%20resource%20sharing/)
+* [XML External Entity (XXE) Injection](XML%20external%20entity/)
+* [Server-Side Request Forgery (SSRF)](Server-side%20request%20forgery/)
+* [HTTP Request Smuggling](HTTP%20request%20smuggling/)
+* [OS Command Injection](OS%20command%20injection/)
+* [Server-Side Template Injection](Server-side%20template%20injection/)
+* [Path Traversal](Path%20traversal/)
+* [Access Control Vulnerabilities](Access%20control%20vulnerabilities/)
+* [Authentication](Authentication/)
+* [WebSockets](WebSockets/)
+* [Web Cache Poisoning](Web%20cache%20poisoning/)
+* [Insecure Deserialization](Insecure%20deserialization/)
+* [Information Disclosure](Information%20disclosure/)
+* [Business Logic Vulnerabilities](Business%20logic%20vulnerabilities/)
+* [HTTP Host Header Attacks](HTTP%20Host%20header%20attacks/)
+* [OAuth Authentication](OAuth%20authentication/)
+* [File Upload Vulnerabilities](File%20upload%20vulnerabilities/)
+* [JWT Attacks](JWT/)
+* [Prototype Pollution](Prototype%20pollution/)
+* [GraphQL API Vulnerabilities](GraphQL%20API%20vulnerabilities/)
+* [Race Conditions](Race%20conditions/)
+* [NoSQL Injection](NoSQL%20injection/)
+* [API Testing](API%20testing/)
+* [Web LLM Attacks](Web%20LLM%20attacks/)
+* [Web Cache Deception](Web%20cache%20deception/)
